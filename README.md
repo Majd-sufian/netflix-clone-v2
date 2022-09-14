@@ -13,6 +13,8 @@ Tech stack:
 
 ![netflix](https://github.com/Majd-sufian/Netflix-clone-v2/blob/main/media/Screen%20Shot%202022-09-14%20at%201.43.28.png?raw=true)
 
+## Scripts:
+
 ### `npm intall`
 
 Install all the used dependencies in the project.

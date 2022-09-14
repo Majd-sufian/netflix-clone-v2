@@ -7,7 +7,7 @@ Tech stack:
 - React
 - Tailwind
 
-### [Live Site](https://netflix-clone-v2-plum.vercel.app/)
+### [Live Site](netflix-clone-v2-umber.vercel.app)
 
 ![netflix](https://github.com/Majd-sufian/Netflix-clone-v2/blob/main/media/Screen%20Shot%202022-09-14%20at%2015.28.58.png?raw=true)
 
